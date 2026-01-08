@@ -18,11 +18,10 @@ const ProductDetail = () => {
 
   return (
     <div style={{ padding: '2rem' }}>
-      <h2>{product.name}</h2>
-      <img src={product.image} alt={product.name} style={{ width: '300px' }} />
-      <p>{product.description}</p>
-      <p>Prix: {product.price} MAD</p>
-      <p>Stock: {product.stock}</p>
+      <h2>{product.nom}</h2>
+      <p>{product.categorie}</p>
+      <p>Prix: {product.disponibilite.prix} MAD</p>
+      <p>Stock: {product.disponibilite.en_stock}</p>
       <button onClick={() => addToCart(product)}>Ajouter au panier</button>
     </div>
   );
