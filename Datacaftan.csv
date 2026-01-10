@@ -1,0 +1,706 @@
+dataset:[{
+  "nom": "Caftan Rbati Classique",
+  "categorie": "Traditionnel",
+  "origine": {
+    "ville": "Rabat",
+    "style": "Terz Rbati"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Soie de Fès",
+      "Satin de soie"
+    ],
+    "doublure": "Satinette"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Point de satin (Rbati)",
+      "fil": "Soie plate multicolore",
+      "motifs": [
+        "Pétales",
+        "Feuillages denses",
+        "Tiges entrelacées"
+      ]
+    },
+    "ornements": [
+      "Sfifa Aârid (large)",
+      "Aakad doubles",
+      "Dars (dentelle à l'aiguille sur les bords)"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Mdamma",
+      "matière": "Brocart brodé"
+    }
+  },
+  "dimensions": {
+    "taille": "40/42 (L)",
+    "longueur": 160,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 6200,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Classique",
+    "Floral",
+    "Rabat"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan de l'Oriental (Blouza)",
+  "categorie": "Régional / Folklore",
+  "origine": {
+    "ville": "Oujda",
+    "style": "Oujdi / Blouza"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Dentelle perlée",
+      "Guipure"
+    ],
+    "doublure": "Satin lycra"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Soutache",
+      "fil": "Fil de soie brillant",
+      "motifs": [
+        "Géométrie orientale",
+        "Ovoïdes"
+      ]
+    },
+    "ornements": [
+      "Perlage intense au plastron",
+      "Galons dorés",
+      "Manches évasées"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "H'zam",
+      "matière": "Tissu rigide brodé"
+    }
+  },
+  "dimensions": {
+    "taille": "38 à 44",
+    "longueur": 150,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 3800,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Oriental",
+    "Blouza",
+    "Oujda"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Makhzani (Caftan de Cour)",
+  "categorie": "Cérémonial Officiel",
+  "origine": {
+    "ville": "Villes Impériales",
+    "style": "Makhzani"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Drap de laine fin",
+      "Soie lourde"
+    ],
+    "doublure": "Soie"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Minimaliste Royal",
+      "fil": "Sqalli (Or) pur",
+      "motifs": [
+        "Lignes sobres",
+        "Bordures géométriques"
+      ]
+    },
+    "ornements": [
+      "Aakad en or massif",
+      "Sfifa très fine (Maalem)",
+      "Fentes latérales"
+    ],
+    "ceinture": {
+      "incluse": false,
+      "nom": "N/A",
+      "matière": "Souvent porté sans ceinture pour la fluidité"
+    }
+  },
+  "dimensions": {
+    "taille": "XL (Coupe ample)",
+    "longueur": 170,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": false,
+    "prix": 25000,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Prestige",
+    "Minimaliste",
+    "Makhzani"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Boho-Chic 2026",
+  "categorie": "Fusion Moderne",
+  "origine": {
+    "ville": "Marrakech",
+    "style": "Beldi-Chic"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Lin lavé",
+      "Coton organique"
+    ],
+    "doublure": "Voile de coton"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Point de croix moderne",
+      "fil": "Coton mat",
+      "motifs": [
+        "Berbères",
+        "Ethniques"
+      ]
+    },
+    "ornements": [
+      "Pompons faits main",
+      "Boutons de bois",
+      "Sfifa en coton"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Tresse",
+      "matière": "Corde de soie et cuir"
+    }
+  },
+  "dimensions": {
+    "taille": "S/M/L (Oversize)",
+    "longueur": 145,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 2200,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Boho",
+    "Casual Luxe",
+    "Marrakech"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Bahja de Tétouan",
+  "categorie": "Traditionnel Régional",
+  "origine": {
+    "ville": "Tétouan",
+    "style": "El Chamali"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Brocard de soie (Bahja)",
+      "Satin de soie"
+    ],
+    "doublure": "Popeline fine"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Taâjira",
+      "fil": "Soie multicolore",
+      "motifs": [
+        "Bouquets andalous",
+        "Fleurs de jasmin"
+      ]
+    },
+    "ornements": [
+      "Sfifa à sept fils",
+      "Aakad de soie",
+      "Khanjar décoratif (Plastron)"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "H'zam Tétouani",
+      "matière": "Soie tissée main"
+    }
+  },
+  "dimensions": {
+    "taille": "Ajustable (L/XL)",
+    "longueur": 155,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 7800,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Andalous",
+    "Patrimoine",
+    "Chamal"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Signature de Salé",
+  "categorie": "Artisanal de Luxe",
+  "origine": {
+    "ville": "Salé",
+    "style": "Slaoui"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Crêpe de soie",
+      "Mousseline"
+    ],
+    "doublure": "Satin léger"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Terz Slawi",
+      "fil": "Cordonnet d'or fin",
+      "motifs": [
+        "Debbana (La mouche)",
+        "Arabesques linéaires"
+      ]
+    },
+    "ornements": [
+      "Sfifa extra-fine",
+      "Aakad miniatures",
+      "Finition Maalem"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Mdamma Cuir",
+      "matière": "Cuir doré brodé"
+    }
+  },
+  "dimensions": {
+    "taille": "Sur mesure",
+    "longueur": 162,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": false,
+    "prix": 12500,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Finesse",
+    "Tradition",
+    "Salé"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Takchita Cristal 2026",
+  "categorie": "Haute Couture Contemporaine",
+  "origine": {
+    "ville": "Casablanca",
+    "style": "Moderne"
+  },
+  "composition": {
+    "pieces": 2,
+    "tissus": [
+      "Tulle cristal",
+      "Satin Duchesse"
+    ],
+    "doublure": "Satin lycra"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Perlage main",
+      "fil": "Fil d'argent",
+      "motifs": [
+        "Pluie de cristaux",
+        "Effet 3D"
+      ]
+    },
+    "ornements": [
+      "Cristaux Swarovski",
+      "Dantelle de Calais",
+      "Sfifa moderne"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Samima",
+      "matière": "Métal articulé ciselé"
+    }
+  },
+  "dimensions": {
+    "taille": "36/38 (S)",
+    "longueur": 165,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 18000,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Fashion",
+    "Luxe",
+    "Moderne"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Zoomorphe d'Azemmour",
+  "categorie": "Patrimoine Rare",
+  "origine": {
+    "ville": "Azemmour",
+    "style": "Historique"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Lin de luxe",
+      "Soie sauvage"
+    ],
+    "doublure": "Coton bio"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Point d'Azemmour",
+      "fil": "Coton rouge et bleu",
+      "motifs": [
+        "Dragons",
+        "Lions",
+        "Paons"
+      ]
+    },
+    "ornements": [
+      "Franges à la main",
+      "Galons rustiques",
+      "Sfifa de coton"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Krichat",
+      "matière": "Fils de soie tressés"
+    }
+  },
+  "dimensions": {
+    "taille": "Unique",
+    "longueur": 158,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": false,
+    "prix": 9500,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Collector",
+    "Mythologie",
+    "Culture"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan El Fassi Authentique",
+  "categorie": "Patrimoine Culturel",
+  "origine": {
+    "ville": "Fès",
+    "style": "El fassi (Ntaâ)"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Velours de soie",
+      "Brocard de soie"
+    ],
+    "doublure": "Satin de soie (pour le confort)"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Terz El Fassi (Point de Fès)",
+      "fil": "Fil d'or pur (Sqalli)",
+      "motifs": [
+        "Paon impérial",
+        "Mandala floral complexe",
+        "Arabesques"
+      ]
+    },
+    "ornements": [
+      "Aakad (boutons en fil d'or faits main)",
+      "Sfifa Aârid (large bande tressée d'or)",
+      "L'Aram (fil de démarcation sur les coutures)"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Mdamma Fassi",
+      "matière": "Or massif ou plaqué, sertie de pierres précieuses"
+    }
+  },
+  "dimensions": {
+    "taille": "Sur mesure (traditionnellement pour la mariée)",
+    "longueur": 170,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": false,
+    "prix": 30000,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Mariage",
+    "Traditionnel",
+    "Luxe Extrême",
+    "Fès"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Géométrique de Meknès",
+  "categorie": "Traditionnel Impérial",
+  "origine": {
+    "ville": "Meknès",
+    "style": "Ismaïlien"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Drap de laine fin",
+      "Soie"
+    ],
+    "doublure": "Satin"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Terz Meknassi",
+      "fil": "Soie et Or",
+      "motifs": [
+        "Carrés",
+        "Triangles",
+        "Lignes droites entrelacées"
+      ]
+    },
+    "ornements": [
+      "Sfifa fine",
+      "Aakad en quinconce",
+      "Point de chaînette"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Mdamma",
+      "matière": "Cuir de Meknès brodé"
+    }
+  },
+  "dimensions": {
+    "taille": "42 (L)",
+    "longueur": 158,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 5200,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Géométrique",
+    "Sobre",
+    "Meknès"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Bleu de Chefchaouen",
+  "categorie": "Artisanal / Bohème",
+  "origine": {
+    "ville": "Chefchaouen",
+    "style": "Jabador-Caftan"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Lin de montagne",
+      "Tulle brodée"
+    ],
+    "doublure": "Voile de coton"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Ethnique Rifain",
+      "fil": "Coton multicolore (Bleus, Roses, Blancs)",
+      "motifs": [
+        "Fleurs de montagne",
+        "Symboles berbères"
+      ]
+    },
+    "ornements": [
+      "Manches évasées",
+      "Sfifa de coton tressé",
+      "Boutons artisanaux"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Kricha",
+      "matière": "Coton et Soie tressés"
+    }
+  },
+  "dimensions": {
+    "taille": "Standard (Coupe fluide)",
+    "longueur": 150,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 3500,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Bleu",
+    "Ethno-chic",
+    "Chefchaouen"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Achemlal de l'Atlas",
+  "categorie": "Patrimoine Berbère",
+  "origine": {
+    "ville": "Moyen Atlas",
+    "style": "Amazigh"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Laine fine (Drap)",
+      "Coton"
+    ],
+    "doublure": "N/A"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Terz Berber",
+      "fil": "Laine colorée",
+      "motifs": [
+        "Losanges",
+        "Fibules stylisées",
+        "Protections (Tazzra)"
+      ]
+    },
+    "ornements": [
+      "Franges sur les manches",
+      "Fibules en argent (L'khlal)",
+      "Boutons en laine"
+    ],
+    "ceinture": {
+      "incluse": true,
+      "nom": "Tasmert",
+      "matière": "Laine tressée à pompons"
+    }
+  },
+  "dimensions": {
+    "taille": "XL (Ajustable par ceinture)",
+    "longueur": 155,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": false,
+    "prix": 4800,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Amazigh",
+    "Laine",
+    "Traditionnel"
+  ]
+}
+/** 
+* Paste one or more documents here
+*/
+{
+  "nom": "Caftan Sahara Fusion",
+  "categorie": "Fusion Régionale",
+  "origine": {
+    "ville": "Laâyoune / Dakhla",
+    "style": "Sahraoui"
+  },
+  "composition": {
+    "pieces": 1,
+    "tissus": [
+      "Soie fine",
+      "Mousseline légère"
+    ],
+    "doublate": "Satin"
+  },
+  "details_artisanaux": {
+    "broderies": {
+      "type": "Maalem léger",
+      "fil": "Argent fin",
+      "motifs": [
+        "Vagues de sable",
+        "Étoiles"
+      ]
+    },
+    "ornements": [
+      "Perles de verre (Guerf)",
+      "Sfifa fluide",
+      "Voile intégré (Mlehfa style)"
+    ],
+    "ceinture": {
+      "incluse": false,
+      "nom": "N/A",
+      "matière": "Se porte souvent lâche ou avec un cordon de soie"
+    }
+  },
+  "dimensions": {
+    "taille": "Oversize",
+    "longueur": 165,
+    "unite": "cm"
+  },
+  "disponibilite": {
+    "en_stock": true,
+    "prix": 4100,
+    "devise": "MAD"
+  },
+  "tags": [
+    "Sahara",
+    "Fluide",
+    "Escale"
+  ]
+}
+]
